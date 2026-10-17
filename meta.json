@@ -1,0 +1,85 @@
+{
+  "generated_utc": "2026-10-17T02:46:52.331Z",
+  "generated_utc8": "2026-10-17 10:46:52",
+  "lines_total": 113,
+  "ddns_domains": 13,
+  "candidates_probed": 500,
+  "verified_ok": 492,
+  "verify_fallback_used": false,
+  "probe_seconds": 8,
+  "ip_entries_final": 100,
+  "hk_kept": 10,
+  "hk_total_seen": 100,
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/Cf-ipv4.json",
+      "kind": "json",
+      "region": "AUTO",
+      "ok": true,
+      "added": 35
+    },
+    {
+      "url": "https://bestcf.pages.dev/random-region/US/100.txt",
+      "kind": "txt",
+      "region": "US",
+      "ok": true,
+      "added": 100
+    },
+    {
+      "url": "https://bestcf.pages.dev/random-region/JP/100.txt",
+      "kind": "txt",
+      "region": "JP",
+      "ok": true,
+      "added": 100
+    },
+    {
+      "url": "https://bestcf.pages.dev/random-region/SG/100.txt",
+      "kind": "txt",
+      "region": "SG",
+      "ok": true,
+      "added": 100
+    },
+    {
+      "url": "https://bestcf.pages.dev/random-region/TW/100.txt",
+      "kind": "txt",
+      "region": "TW",
+      "ok": true,
+      "added": 32
+    },
+    {
+      "url": "https://bestcf.pages.dev/random-region/HK/100.txt",
+      "kind": "txt",
+      "region": "HK",
+      "ok": true,
+      "added": 100
+    },
+    {
+      "url": "https://raw.githubusercontent.com/joname1/BestCFip/refs/heads/main/ipv4.txt",
+      "kind": "txt",
+      "region": "AUTO",
+      "ok": true,
+      "added": 101
+    },
+    {
+      "url": "https://addressesapi.090227.xyz/CloudFlareYes",
+      "kind": "txt",
+      "region": "AUTO",
+      "ok": true,
+      "added": 10
+    },
+    {
+      "url": "https://ipdb.api.030101.xyz/?type=bestcf",
+      "kind": "txt",
+      "region": "AUTO",
+      "ok": true,
+      "added": 10
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt",
+      "kind": "txt",
+      "region": "AUTO",
+      "ok": true,
+      "added": 4
+    }
+  ]
+}
