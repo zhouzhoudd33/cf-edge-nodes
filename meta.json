@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-18T15:02:03.826Z",
-  "generated_utc8": "2026-10-18 23:02:03",
+  "generated_utc": "2026-10-19T02:12:31.269Z",
+  "generated_utc8": "2026-10-19 10:12:31",
   "lines_total": 113,
   "ddns_domains": 13,
-  "candidates_probed": 499,
-  "verified_ok": 493,
+  "candidates_probed": 491,
+  "verified_ok": 476,
   "verify_fallback_used": false,
-  "probe_seconds": 9,
+  "probe_seconds": 10,
   "ip_entries_final": 100,
   "hk_kept": 10,
   "hk_total_seen": 100,
@@ -79,7 +79,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 3
+      "added": 4
     }
   ]
 }
