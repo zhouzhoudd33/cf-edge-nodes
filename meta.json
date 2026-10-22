@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-21T16:14:45.503Z",
-  "generated_utc8": "2026-10-22 00:14:45",
+  "generated_utc": "2026-10-22T02:16:11.272Z",
+  "generated_utc8": "2026-10-22 10:16:11",
   "lines_total": 113,
   "ddns_domains": 13,
-  "candidates_probed": 496,
-  "verified_ok": 480,
+  "candidates_probed": 478,
+  "verified_ok": 463,
   "verify_fallback_used": false,
-  "probe_seconds": 8,
+  "probe_seconds": 7,
   "ip_entries_final": 100,
   "hk_kept": 10,
   "hk_total_seen": 100,
@@ -58,14 +58,14 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 98
+      "added": 86
     },
     {
       "url": "https://addressesapi.090227.xyz/CloudFlareYes",
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 10
+      "added": 15
     },
     {
       "url": "https://ipdb.api.030101.xyz/?type=bestcf",
@@ -79,7 +79,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 3
+      "added": 4
     }
   ]
 }
