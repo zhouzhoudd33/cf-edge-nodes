@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-23T02:22:05.806Z",
-  "generated_utc8": "2026-10-23 10:22:05",
+  "generated_utc": "2026-10-23T16:03:13.898Z",
+  "generated_utc8": "2026-10-24 00:03:13",
   "lines_total": 113,
   "ddns_domains": 13,
   "candidates_probed": 500,
-  "verified_ok": 485,
+  "verified_ok": 476,
   "verify_fallback_used": false,
-  "probe_seconds": 10,
+  "probe_seconds": 9,
   "ip_entries_final": 100,
   "hk_kept": 10,
   "hk_total_seen": 100,
@@ -44,7 +44,7 @@
       "kind": "txt",
       "region": "TW",
       "ok": true,
-      "added": 24
+      "added": 25
     },
     {
       "url": "https://bestcf.pages.dev/random-region/HK/100.txt",
@@ -58,7 +58,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 101
+      "added": 97
     },
     {
       "url": "https://addressesapi.090227.xyz/CloudFlareYes",
