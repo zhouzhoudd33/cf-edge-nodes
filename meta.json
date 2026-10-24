@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-24T02:19:27.866Z",
-  "generated_utc8": "2026-10-24 10:19:27",
+  "generated_utc": "2026-10-24T14:59:58.036Z",
+  "generated_utc8": "2026-10-24 22:59:58",
   "lines_total": 113,
   "ddns_domains": 13,
-  "candidates_probed": 500,
+  "candidates_probed": 494,
   "verified_ok": 483,
   "verify_fallback_used": false,
-  "probe_seconds": 9,
+  "probe_seconds": 10,
   "ip_entries_final": 100,
   "hk_kept": 10,
   "hk_total_seen": 100,
@@ -44,7 +44,7 @@
       "kind": "txt",
       "region": "TW",
       "ok": true,
-      "added": 25
+      "added": 23
     },
     {
       "url": "https://bestcf.pages.dev/random-region/HK/100.txt",
@@ -65,7 +65,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 15
+      "added": 10
     },
     {
       "url": "https://ipdb.api.030101.xyz/?type=bestcf",
@@ -79,7 +79,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 4
+      "added": 3
     }
   ]
 }
