@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-24T14:59:58.036Z",
-  "generated_utc8": "2026-10-24 22:59:58",
+  "generated_utc": "2026-10-25T02:06:48.125Z",
+  "generated_utc8": "2026-10-25 10:06:48",
   "lines_total": 113,
   "ddns_domains": 13,
-  "candidates_probed": 494,
-  "verified_ok": 483,
+  "candidates_probed": 500,
+  "verified_ok": 488,
   "verify_fallback_used": false,
-  "probe_seconds": 10,
+  "probe_seconds": 8,
   "ip_entries_final": 100,
   "hk_kept": 10,
   "hk_total_seen": 100,
@@ -65,7 +65,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 10
+      "added": 15
     },
     {
       "url": "https://ipdb.api.030101.xyz/?type=bestcf",
@@ -79,7 +79,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 3
+      "added": 4
     }
   ]
 }
