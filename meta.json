@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-03T04:25:24.161Z",
-  "generated_utc8": "2026-11-03 12:25:24",
+  "generated_utc": "2026-11-03T18:45:46.524Z",
+  "generated_utc8": "2026-11-04 02:45:46",
   "lines_total": 113,
   "ddns_domains": 13,
-  "candidates_probed": 495,
-  "verified_ok": 485,
+  "candidates_probed": 490,
+  "verified_ok": 472,
   "verify_fallback_used": false,
-  "probe_seconds": 8,
+  "probe_seconds": 9,
   "ip_entries_final": 100,
   "hk_kept": 10,
   "hk_total_seen": 100,
@@ -58,7 +58,7 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 100
+      "added": 102
     },
     {
       "url": "https://addressesapi.090227.xyz/CloudFlareYes",
@@ -71,8 +71,8 @@
       "url": "https://ipdb.api.030101.xyz/?type=bestcf",
       "kind": "txt",
       "region": "AUTO",
-      "ok": true,
-      "added": 10
+      "ok": false,
+      "added": 0
     },
     {
       "url": "https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt",
