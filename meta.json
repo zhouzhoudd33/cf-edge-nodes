@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-03T18:45:46.524Z",
-  "generated_utc8": "2026-11-04 02:45:46",
+  "generated_utc": "2026-11-04T03:43:00.254Z",
+  "generated_utc8": "2026-11-04 11:43:00",
   "lines_total": 113,
   "ddns_domains": 13,
-  "candidates_probed": 490,
-  "verified_ok": 472,
+  "candidates_probed": 494,
+  "verified_ok": 480,
   "verify_fallback_used": false,
-  "probe_seconds": 9,
+  "probe_seconds": 8,
   "ip_entries_final": 100,
   "hk_kept": 10,
   "hk_total_seen": 100,
@@ -58,28 +58,28 @@
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 102
+      "added": 101
     },
     {
       "url": "https://addressesapi.090227.xyz/CloudFlareYes",
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 10
+      "added": 9
     },
     {
       "url": "https://ipdb.api.030101.xyz/?type=bestcf",
       "kind": "txt",
       "region": "AUTO",
-      "ok": false,
-      "added": 0
+      "ok": true,
+      "added": 10
     },
     {
       "url": "https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt",
       "kind": "txt",
       "region": "AUTO",
       "ok": true,
-      "added": 3
+      "added": 4
     }
   ]
 }
